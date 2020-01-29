@@ -119,4 +119,4 @@ of ruggedness. They have moderate-low Density Basin information,
 implying perhaps isolated (if less so than the third) peaks. Fitness
 measures below:
 
-<img src="/ResultPlots/restable.png" align="middle"> 
+<img src="/ResultPlots/resulttable.png" align="middle"> 
