@@ -119,12 +119,4 @@ of ruggedness. They have moderate-low Density Basin information,
 implying perhaps isolated (if less so than the third) peaks. Fitness
 measures below:
 
-  ----------------- --------- ----------------------------- ------------------------- ------------------- ---------------------------------
-  **Instance**      **FDC**   **Auto correlation Length**   **Information Content**   **Density Basin**   **Partial Information Content**
-  First Instance    0.34289   1.94                          0.8292                    0.827               0.2933
-  Second Instance   0.0609    1.5                           0.3993                    0.6156              0.3257
-  Third Instance    0.479     1.922                         0.3935                    0.5376              0.3285
-  Fourth Instance   -0.3347   0.763                         0.393                     0.6308              0.3371
-  Fifth Instance    0.365     0.4714                        0.799                     0.8271              0.2995
-  Sixth Instance    -0.2861   1.23                          0.386                     0.6309              0.3290
-  ----------------- --------- ----------------------------- ------------------------- ------------------- ---------------------------------
+<img src="/ResultPlots/restable.png" align="middle"> 
