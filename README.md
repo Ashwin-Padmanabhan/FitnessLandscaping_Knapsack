@@ -59,20 +59,20 @@ Below are the plots for average fitness versus walk length for the first two ins
 
 First Instance: | Second Instance
 :-------------------------:|:-------------------------:
-<img src="/ResultPlots/avgfitness_walk_firstinstance.png}" width="250" height="250"> | <img src="/ResultPlots/avgfitness_walk_secondinstance.png" width="250" height="250">
+<img src="/ResultPlots/avgfitness_walk_firstinstance.png" width="250" height="250"> | <img src="/ResultPlots/avgfitness_walk_secondinstance.png" width="250" height="250">
 
 Below are the plots for average fitness for the third and fourth instances: 
 
 Third Instance: | Fourth Instance
 :-------------------------:|:-------------------------:
-<img src="/ResultPlots/avgfitness_walk_thirdinstance.png}" width="250" height="250"> | <img src="/ResultPlots/avgfitness_walk_fourthinstance.png" width="250" height="250">
+<img src="/ResultPlots/avgfitness_walk_thirdinstance.png" width="250" height="250"> | <img src="/ResultPlots/avgfitness_walk_fourthinstance.png" width="250" height="250">
 
 
 Below are the plots for average fitness for the Fifth and Sixth instances: 
 
 Fifth Instance: | Sixth Instance
 :-------------------------:|:-------------------------:
-<img src="/ResultPlots/avgfitness_walk_fifthinstance.png}" width="250" height="250"> | <img src="/ResultPlots/avgfitness_walk_sixthinstance.png" width="250" height="250">
+<img src="/ResultPlots/avgfitness_walk_fifthinstance.png" width="250" height="250"> | <img src="/ResultPlots/avgfitness_walk_sixthinstance.png" width="250" height="250">
 
 
 The same experiment was performed, walk of length 30 steps, restarted 70
